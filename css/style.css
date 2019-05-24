@@ -1,0 +1,66 @@
+.monnavbar{
+    background-color: #0f6674;
+    color : black;
+}
+#myVideo {
+    position: center;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.intro{
+    height: 100%;
+    background-color: black;
+}
+.blanc{
+    color: white;
+}
+.black{
+    color: black;
+}
+.padding{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.padbot{
+    padding-bottom: 50px;
+}
+.padtop{
+    padding-top : 50px;
+}
+.lightblue
+{
+    background-color: lightskyblue;
+}
+@media screen and (max-width: 992px) {
+    .monnavbar{
+        background-color: #f1b0b7;
+    }
+
+}
+@media screen and (max-width: 600px) {
+    .monnavbar{
+        background-color: #abdde5;
+    }
+    .intro{
+        background-color: #c6c8ca;
+    }
+}
+.grisvraimentpale{
+    background-color: #c6c8ca;
+}
+.red{
+    color: red;
+    background-color: blue;
+}
+.bleumoyen{
+    background-color: dodgerblue;
+}
+.darkgreen{
+    background-color: darkgreen;
+}
+.blackbac{
+    background-color: black;
+    color : white;
+}
